@@ -17,6 +17,8 @@ public enum Cell {
         this.symbol = initialSymbol;
     }
 
+    
+    
 	// Override function for easy printing of cell's symbol
 	// Functions identically to default getter ( getSymbol() )
     @Override
